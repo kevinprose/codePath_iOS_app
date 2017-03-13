@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-[Link to K Rose walk through on imgur](http://www.imgur.com/a/pO696)
+[Link to K Rose walk through on imgur](http://i.imgur.com/ggcPvIN.gifv)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
