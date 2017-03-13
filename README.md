@@ -25,11 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
-[imgur](http://www.imgur.com/a/pO696)
-
-<img src='http://imgur.com/a/pO696' title='K Rose Video Walkthrough' width='' alt='K Rose Video Walkthrough' />
+[Link to K Rose walk through on imgur](http://www.imgur.com/a/pO696)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
